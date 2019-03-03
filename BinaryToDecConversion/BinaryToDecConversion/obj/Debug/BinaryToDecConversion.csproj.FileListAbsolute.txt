@@ -1,0 +1,7 @@
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\obj\Debug\BinaryToDecConversion.csprojAssemblyReference.cache
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\obj\Debug\BinaryToDecConversion.csproj.CoreCompileInputs.cache
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\bin\Debug\BinaryToDecConversion.exe.config
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\bin\Debug\BinaryToDecConversion.exe
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\bin\Debug\BinaryToDecConversion.pdb
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\obj\Debug\BinaryToDecConversion.exe
+C:\Users\Louis\source\repos\BinaryToDecConversion\BinaryToDecConversion\obj\Debug\BinaryToDecConversion.pdb
